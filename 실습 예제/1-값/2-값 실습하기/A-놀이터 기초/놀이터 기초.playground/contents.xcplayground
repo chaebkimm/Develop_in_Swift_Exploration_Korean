@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-  <playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
     <pages>
-      <page name='시작'/>
-      <page name='놀이터란?'/>
-      <page name='계산'/>
-      <page name='주석'/>
-      <page name='뭔가 잘못됐을 때'/>
-      <page name='오류'/>
-      <page name='마무리'/>
+        <page name='Introduction'/>
+        <page name='What Is a Playground?'/>
+        <page name='Calculations'/>
+        <page name='Comments'/>
+        <page name='When Things Go Wrong'/>
+        <page name='Errors'/>
+        <page name='Wrapping Up'/>
     </pages>
-  </playground>
-  
+</playground>
